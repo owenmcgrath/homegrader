@@ -1,9 +1,8 @@
-M School Score,Average Software Engineer Salary to COL,Distance From LB,Catholic Parish Rating,Catholic School Rating,Farm Friendly
-.2,.2,.1,.2,.2,.1
-WashU (St. Louis MO),UW Madison,Northwestern (Evanston IL),U of I (Urbana IL),UW Milwaukee,Indiana University (Indianapolis IN),UChicago,Purdue (West Lafayette IN),Notre Dame (South Bend IN),Case Western (Cleveland OH),UMN (Minneapolis MN),Michigan (Ann Arbor MI),Vanderbilt (Nashville TN),Ohio State (Columbus OH),Iowa (Iowa City IA),Wayne State (Detroit MI),Carnegie Mellon (Pittsburgh PA),Georgetown (Washington DC),Kansas (Lawrence KS),Cincinatti (Cincinatti OH),Missouri (Columbia MO),Marquette (Milwaukee WI),Loyola (Chicago),St Louis (St Louis MO)
-...college score
-8.0,6.7,6.6,8.7,7.8,7.7,6.6,7.5,9.5,9.0,6.2,6.2,6.5,8.1,6.9,7.7,7.8,4.3,6.9,8.0,7.5,7.8,6.6,8.0
-8.6,9.4,9.9,9.3,9.7,9.1,9.8,9.3,9.4,8.3,8.3,8.8,7.8,8.3,8.9,8.6,7.8,6.8,7.5,8.6,8.1,9.7,9.9,8.6
-...parish rating 
-...catholic school rating
-...farm friendly
+M School Score,Average Software Engineer Salary to COL,Distance From LB,Catholic Parish Rating,Catholic School Rating
+.33,.33,.1,.33
+WashU (St. Louis MO),UW Madison,Northwestern (Evanston IL),U of I (Urbana IL),UW Milwaukee,Indiana University (Indianapolis IN), UChicago(Chicago IL),Notre Dame (South Bend IN),Case Western (Cleveland OH),UMN (Minneapolis MN),Michigan (Ann Arbor MI),Vanderbilt (Nashville TN),Ohio State (Columbus OH),Iowa (Iowa City IA),Carnegie Mellon (Pittsburgh PA),Georgetown (Washington DC),Marquette (Milwaukee WI)
+6.5,8.5,5.0,4.0,5.0,7.0,5.5,4.0,3.0,3.0,3.0,8.0,5.5,8.5,5.5,6.5,3.0
+8.0,6.7,6.6,8.7,7.8,7.7,6.6,9.5,9.0,6.2,6.2,6.5,8.1,6.9,7.8,4.3,7.8
+8.6,9.4,9.9,9.3,9.7,9.1,9.8,9.4,8.3,8.3,8.8,7.8,8.3,8.9,7.8,6.8,9.7
+10.0,7.5,10.0,2.5,10.0,5.0,10.0,10.0,10.0,10.0,5.0,10.0,10.0,5.0,10.0,5.0,10.0 
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

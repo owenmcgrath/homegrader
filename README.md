@@ -5,11 +5,11 @@ A chart generator for a grading scheme of places we want to live
 ## system
 
 Using a typical weighted graded system like a teacher would use
-Expects a score for each category on a scale of 0-10 inclusive. 
+Expects a score for each category on a scale of 0-10 inclusive.
 
 ## categories
 
-- M school score 
+- M school score
 - Avg software engineer salary to COL ratio
 - Distance from LB
 - Catholic parish rating
@@ -41,10 +41,10 @@ Expects a score for each category on a scale of 0-10 inclusive.
   - 129
 - Case Western (Cleveland OH)
   - 382
-- UMN (Minneapolis MN)
-  - 390
-- Michigan (Ann Arbor MI)
-  - 275
+~~~- UMN (Minneapolis MN)~~~
+~~~  - 390~~~
+~~~- Michigan (Ann Arbor MI)~~~
+~~~  - 275~~~
 - Vanderbilt (Nashville TN)
   - 508
 - Ohio State (Columbus OH)
@@ -63,8 +63,8 @@ Expects a score for each category on a scale of 0-10 inclusive.
 ~~~  - 327 ~~~
 ~~~- Missouri (Columbia MO) ~~~
 ~~~  - 427 ~~~
-- Marquette (Milwaukee WI)
-  - 57.6
+~~~- Marquette (Milwaukee WI)~~~
+~~~  - 57.6~~~
 ~~~- Loyola (Chicago) ~~~
 ~~~  - 28.2 ~~~
 ~~~- St Louis (St Louis MO) ~~~
@@ -97,10 +97,10 @@ Expects a score for each category on a scale of 0-10 inclusive.
   - 116897
 - Case Western (Cleveland OH)
   - 118180
-- UMN (Minneapolis MN)
-  - 118521
-- Michigan (Ann Arbor MI)
-  - 131763
+~~~- UMN (Minneapolis MN)~~~
+~~~  - 118521~~~
+~~~ Michigan (Ann Arbor MI)~~~
+ ~~~ - 131763~~~
 - Vanderbilt (Nashville TN)
   - 119042
 - Ohio State (Columbus OH)
@@ -119,8 +119,8 @@ Expects a score for each category on a scale of 0-10 inclusive.
 ~~~  - 121856~~~
 ~~~- Missouri (Columbia MO)~~~
 ~~~  - 119411~~~
-- Marquette (Milwaukee WI)
-  - 119249
+~~~- Marquette (Milwaukee WI)~~~
+~~~  - 119249~~~
 ~~~ Loyola (Chicago) ~~~
 ~~~ - 127780 ~~~
 ~~~ St Louis (St Louis MO) ~~~
@@ -136,23 +136,7 @@ bestplaces.net cost of living (US Average of 100)
   - 100.6
 - Northwestern (Evanston IL)
   - 106.9
-- U of I (Urbana IL)
-  - 78.2
-- UW Milwaukee
-  - 84.9
-- Indiana University (Indianapolis IN)
-  - 83.5
-- UChicago
-  - 106.9
-~~~- Purdue (West Lafayette IN)~~~
-~~~  - 89~~~
-- Notre Dame (South Bend IN)
-  - 68.4
-- Case Western (Cleveland OH)
-  - 72.6
-- UMN (Minneapolis MN)
-  - 106.5
-- Michigan (Ann Arbor MI)
+- U of I (Urbana IL)alapeno )
   - 117.5
 - Vanderbilt (Nashville TN)
   - 101.4
@@ -172,8 +156,8 @@ bestplaces.net cost of living (US Average of 100)
 ~~~  - 84.6~~~
 ~~~- Missouri (Columbia MO)~~~
 ~~~  - 87.9~~~
-- Marquette (Milwaukee WI)
-  - 84.9
+~~~- Marquette (Milwaukee WI)~~~
+ ~~~ - 84.9~~~
 ~~~- Loyola (Chicago)~~~
 ~~~  - 106.9~~~
 ~~~- St Louis (St Louis MO)~~~
@@ -221,10 +205,10 @@ Michigan 15
   - 10
 - Case Western (Cleveland OH)
   - 10 (exception immaculate conception)
-- UMN (Minneapolis MN)
-  - 10
-- Michigan (Ann Arbor MI)
-  - 5
+~~~- UMN (Minneapolis MN)~~~
+ ~~~ - 10~~~
+~~~- Michigan (Ann Arbor MI)~~~
+~~~  - 5~~~
 - Vanderbilt (Nashville TN)
   - 10 (exception for assumption church)
 - Ohio State (Columbus OH)
@@ -243,8 +227,8 @@ Michigan 15
 ~~~  - 5~~~
 ~~~- Missouri (Columbia MO)~~~
 ~~~  - 0~~~
-- Marquette (Milwaukee WI)
-  - 10
+~~~- Marquette (Milwaukee WI)~~~
+~~~  - 10~~~
 ~~~- Loyola (Chicago)~~~
 ~~~  - 10~~~
 ~~~- St Louis (St Louis MO)~~~
